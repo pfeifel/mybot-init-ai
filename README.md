@@ -1,0 +1,2 @@
+# mybot-init-ai
+whatever
